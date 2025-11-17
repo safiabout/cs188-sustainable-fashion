@@ -73,6 +73,7 @@ INSERT INTO brands (brand_name, overall_score) VALUES
 ('Youngor', 0);
 
 -- 11-20%
+INSERT INTO brands (brand_name, overall_score) VALUES
 ('Reserved', 20),
 ('Otto', 20),
 ('Diesel', 19),
@@ -116,6 +117,7 @@ INSERT INTO brands (brand_name, overall_score) VALUES
 ('Chanel', 11);
 
 -- 21-30%
+INSERT INTO brands (brand_name, overall_score) VALUES
 ('Helly Hansen', 30),
 ('CELINE', 30),
 ('JD Sports', 29),
@@ -162,6 +164,7 @@ INSERT INTO brands (brand_name, overall_score) VALUES
 ('Cortefiel', 21);
 
 -- 31-40%
+INSERT INTO brands (brand_name, overall_score) VALUES
 ('Fjällräven', 40),
 ('Zalando', 40),
 ('Patagonia', 40),
@@ -196,6 +199,7 @@ INSERT INTO brands (brand_name, overall_score) VALUES
 ('GUESS', 31);
 
 -- 41-50%
+INSERT INTO brands (brand_name, overall_score) VALUES
 ('Tom Tailor', 50),
 ('ASOS', 50),
 ('Converse', 50),
@@ -230,6 +234,7 @@ INSERT INTO brands (brand_name, overall_score) VALUES
 ('Kate Spade', 41);
 
 -- 51-60%
+INSERT INTO brands (brand_name, overall_score) VALUES
 ('Levi Strauss & Co', 60),
 ('Fendi', 58),
 ('UGG', 57),
@@ -247,6 +252,7 @@ INSERT INTO brands (brand_name, overall_score) VALUES
 ('Uniqlo', 51);
 
 -- 61-70%
+INSERT INTO brands (brand_name, overall_score) VALUES
 ('C&A', 68),
 ('Puma', 66),
 ('The North Face', 66),
@@ -258,6 +264,7 @@ INSERT INTO brands (brand_name, overall_score) VALUES
 ('Tezenis', 63);
 
 -- 71-80%
+INSERT INTO brands (brand_name, overall_score) VALUES
 ('Gucci', 80),
 ('Kmart Australia', 76),
 ('Target Australia', 76),
@@ -265,6 +272,7 @@ INSERT INTO brands (brand_name, overall_score) VALUES
 ('H&M', 71);
 
 -- 81-90%
+INSERT INTO brands (brand_name, overall_score) VALUES
 ('OVS', 83);
 
 -- 91-100%
