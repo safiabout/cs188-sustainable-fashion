@@ -23,3 +23,22 @@ I initially tried to create a local database just to see if I could get it to wo
 * if you want to stop the server from running, go to the posgress app and press `stop`
 
 ## Supabase Guide
+
+[supabase tutorial](https://www.youtube.com/watch?v=kyphLGnSz6Q)
+
+[supabase website](https://supabase.com/)
+
+Supabase Info
+* Supabase is a BaaS (Backend as a Service)
+    * You can abstract and fast track many of the tedious aspect of setting up the backend
+    * Once you set up Supabase, you will already have a database 
+    * Supabase is great since you do not have to build you own backend. Supabase will help develop everything for you, and introduce different menthods and functions that you can call in your front-end to execute functionality that you would normally have to serve to an endpoint in your backend 
+    * It hosts the database completely for you 
+    * to modify database, can use either the SQL editor or the Table editor
+        * Table editor is more visual, SQL editor allows you to write some SQL commands 
+    
+* As of now I have setup the database on Supabase. Now the next step would be to connect the backend to the frontend extension. (go back to video tutorial at 20:43 to continue after frontend is done)
+    * I would need to create a supabase client file inside of the project
+        * Then import a file from the supabase package (need to install it)
+
+* I have also looked into sharing the subabase backend with others though [this document](https://supabase.com/docs/guides/platform/access-control)
